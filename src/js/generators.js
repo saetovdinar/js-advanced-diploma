@@ -9,7 +9,7 @@
  *
  */
 export function* characterGenerator(allowedTypes, maxLevel) {
-  // TODO: write logic here
+  
 }
 
 /**
